@@ -1,2 +1,2 @@
 # Gaia-Sim
-Rough first version of a evolution simulator based on inheritance mutation
+Rough first version of an evolution simulator based on inheritance mutation
